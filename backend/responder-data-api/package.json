@@ -1,0 +1,30 @@
+{
+  "name": "responder-data-api",
+  "version": "1.0.0",
+  "description": "REST API for responder data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaiscioch/HackUNT-2019.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "NodeJS"
+  ],
+  "author": "Cameron Brill (https://github.com/gaiscioch)",
+  "bugs": {
+    "url": "https://github.com/gaiscioch/HackUNT-2019/issues"
+  },
+  "homepage": "https://github.com/gaiscioch/HackUNT-2019#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
